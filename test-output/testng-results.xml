@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T00:34:29 EST" name="Suite" finished-at="2023-01-05T00:34:35 EST" duration-ms="5959">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T00:34:29 EST" name="Test" finished-at="2023-01-05T00:34:35 EST" duration-ms="5959">
+      <class name="testNG.TestNgListenersdemo2">
+        <test-method signature="test5()[pri:0, instance:testNG.TestNgListenersdemo2@41fbdac4]" started-at="2023-01-05T00:34:32 EST" name="test5" finished-at="2023-01-05T00:34:35 EST" duration-ms="2382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:testNG.TestNgListenersdemo2@41fbdac4]" started-at="2023-01-05T00:34:35 EST" name="test6" finished-at="2023-01-05T00:34:35 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:0, instance:testNG.TestNgListenersdemo2@41fbdac4]" started-at="2023-01-05T00:34:35 EST" name="test7" finished-at="2023-01-05T00:34:35 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:0, instance:testNG.TestNgListenersdemo2@41fbdac4]" started-at="2023-01-05T00:34:35 EST" name="test8" finished-at="2023-01-05T00:34:35 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- testNG.TestNgListenersdemo2 -->
+      <class name="testNG.TestNgListenersdemo">
+        <test-method signature="test1()[pri:0, instance:testNG.TestNgListenersdemo@72f926e6]" started-at="2023-01-05T00:34:29 EST" name="test1" finished-at="2023-01-05T00:34:29 EST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:testNG.TestNgListenersdemo@72f926e6]" started-at="2023-01-05T00:34:29 EST" name="test2" finished-at="2023-01-05T00:34:32 EST" duration-ms="3521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:testNG.TestNgListenersdemo@72f926e6]" started-at="2023-01-05T00:34:32 EST" name="test3" finished-at="2023-01-05T00:34:32 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:testNG.TestNgListenersdemo@72f926e6]" started-at="2023-01-05T00:34:32 EST" name="test4" finished-at="2023-01-05T00:34:32 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- testNG.TestNgListenersdemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
